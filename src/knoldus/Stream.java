@@ -1,4 +1,4 @@
-package JavaStream_Assign;
+package knoldus;
 
 import java.util.List;
 
